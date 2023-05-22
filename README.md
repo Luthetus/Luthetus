@@ -1,4 +1,4 @@
-`Luthetus` is a namespace for a variety of repositories that I, (https://github.com/huntercfreeman), have created.
+`Luthetus` is a namespace for a variety of repositories that I, https://github.com/huntercfreeman, have created.
 
 The previous repositories which existed on my profile, will now link to the respective repository on the Luthetus profile.
 
