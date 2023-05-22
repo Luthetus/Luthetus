@@ -1,6 +1,6 @@
-### "Luthetus" is a namespace for a variety of repositories that I, (https://github.com/huntercfreeman), have created.
+`Luthetus` is a namespace for a variety of repositories that I, (https://github.com/huntercfreeman), have created.
 
-### The previous repositories which existed on my profile, will now link to the respective repository on the "Luthetus" profile.
+The previous repositories which existed on my profile, will now link to the respective repository on the Luthetus profile.
 
 <!--
 **Luthetus/Luthetus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
