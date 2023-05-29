@@ -1,5 +1,5 @@
 ## Demo:
-https://luthetus.github.io/
+https://luthetus.github.io/Luthetus.Website/
 
 `Luthetus` is a namespace for a variety of repositories that I, https://github.com/huntercfreeman, have created.
 
